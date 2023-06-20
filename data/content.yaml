@@ -1,0 +1,56 @@
+BasicInfo:
+  FirstName: Maxim  
+  LastName: Russkikh  
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +7 920 007 26 24
+    - Icon: fas fa-envelope
+      Info: maksimgusev123123@mail.ru 
+    - Icon: fab fa-github
+      Info: <a class="contact__link" href="https://github.com/guiltsol" target="_blank">https://github.com/guiltsol</a>
+    - Icon: fas fa-map-marker-alt
+      Info: Russia
+
+Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+
+ 
+
+Education:
+  - Course: BSc & MSc in Biomedical Engineering and Biophysics
+    Place: University of Lisbon
+    Date: Sep 2012 - Nov 2017
+    Details: Specialised in data analysis
+
+Languages:
+  - Name: Russian
+    Level: Native
+  - Name: English
+    Level: B1
+
+
+Interests:
+  - Bouldering
+  - Cooking
+  - Windsurfing
+  - Bossa Nova
+  - Design
+  - Languages
+
+
+
+
+
+Skills:
+  - Family: Programming
+    Items:
+      - Python
+      - HTML
+      - CSS
+      - C/C++
+      - C#
+  - Family: Developer Tools
+    Items:
+      - Git
+ 
