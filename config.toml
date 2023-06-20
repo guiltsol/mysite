@@ -2,3 +2,21 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Maxim Russkikh resume'
 theme="almeida-cv"
+
+[params]
+enableMetaTags = true
+colorLight = "#fff"
+colorDark = "#525252"
+colorPageBackground = "#ddd"
+colorPrimary = "#A45A37"
+colorSecondary = "#0C4933"
+colorIconPrimary = "#7C523D"
+colorIconBackground = "#A45A37"
+colorRightColumnBackground = "#f5f5f5"
+colorRightColumnHeadingText = "#525252"
+colorRightColumnBodyText = "#525252"
+colorRightColumnIconPrimary = "#fff"
+colorRightColumnIconBackground = "#A45A37"
+pages = 1
+# Set this param to 'true' to swap the bar positions
+swapColumns = true
