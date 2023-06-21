@@ -12,16 +12,13 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: Russia
 
-Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-
- 
+Profile: My name is Max and I am 21 years old. I am a student at NNGASU, studying applied computer science. I don't have work experience in IT field yet, but I aspire to get it. I am eager to get new skills and experience in this field. 
 
 Education:
-  - Course: BSc & MSc in Biomedical Engineering and Biophysics
-    Place: University of Lisbon
-    Date: Sep 2012 - Nov 2017
-    Details: Specialised in data analysis
+  - Course: BSc Applied Computer Science in Economics
+    Place: Nizhny Novgorod State University Of Architecture And Civil Engineering (NNGASU)
+    Date: Sep 2022 - Aug 2026
+    Details: 
 
 Languages:
   - Name: Russian
@@ -29,18 +26,13 @@ Languages:
   - Name: English
     Level: B1
 
-
 Interests:
-  - Bouldering
-  - Cooking
-  - Windsurfing
-  - Bossa Nova
-  - Design
+  - Gym
   - Languages
-
-
-
-
+  - Design
+  - E-sport
+  - Swimming
+  - Reading
 
 Skills:
   - Family: Programming
