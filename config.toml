@@ -5,9 +5,9 @@ theme="almeida-cv"
 
 [params]
 enableMetaTags = true
-colorLight = "#FFA07A"
+colorLight = "#FFFFE0"
 colorDark = "#000000"
-colorPageBackground = "#FFB6C1"
+colorPageBackground = "#F8F8FF"
 colorPrimary = "#A45A37"
 colorSecondary = "#008B8B"
 colorIconPrimary = "#7C523D"
